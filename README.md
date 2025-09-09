@@ -1,2 +1,2 @@
-# typingclub-modded
-Modded Typingclub
+# Modded Typing Club
+webiste: https://modded-typingclub.lovable.app/
